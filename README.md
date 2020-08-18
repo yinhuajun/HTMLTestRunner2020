@@ -1,8 +1,7 @@
-# encoding: utf-8
-# @author: 山东少年先锋队
-# @email: 1253039341@qq.com
-# @time: 2020/8/13 11:36
-# coding=utf-8
+encoding: utf-8
+@author: 山东少年先锋队
+@email: 1253039341@qq.com
+@time: 2020/8/13 11:36
 
 __author__ = "山东少年先锋队"
 __version__ = "0.0.1"
@@ -21,7 +20,9 @@ Version 0.0.1
 
 
 感谢各位开源作者的无私奉献，参考学习链接：
+
 HTMLTestRunner： http://tungwaiyip.info/software/HTMLTestRunner.html
+
 Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
 
 肯定存在bug，可以的话请告诉我，之后有需要会再出一版修复bug，希望对大家有帮助
