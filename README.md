@@ -26,13 +26,14 @@ Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
 肯定存在bug，可以的话请告诉我，之后有需要会再出一版修复bug，希望对大家有帮助
 
 使用方法例：
+
     import HTMLTestRunner2020
     
     ..................
     
     suite = "你的用例"
     
-    runner = HTMLTestRunner2020.HTMLTestRunner(file, verbosity=2, title="山东少年先锋队接口自动化测试",)
+    runner = HTMLTestRunner2020.HTMLTestRunner("报告输出位置", verbosity=2, title="自动化测试标题",)
     
     try:
     
@@ -43,5 +44,5 @@ Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
         MyLogs().error("执行用例失败:{0}".format(e))
         
 """
-
+输出效果：
 ![Image text](https://github.com/yinhuajun/HTMLTestRunner2020/blob/master/20200818142002.png)
