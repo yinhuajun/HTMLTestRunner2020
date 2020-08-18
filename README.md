@@ -5,7 +5,7 @@ encoding: utf-8
 __author__ = "山东少年先锋队"
 __version__ = "0.0.1"
 
-"""
+
 相比于原始HTMLTestRunner
 增加：
 * 支持中文，汉化
@@ -43,6 +43,6 @@ Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
         
         MyLogs().error("执行用例失败:{0}".format(e))
         
-"""
-输出效果：
+
+效果：
 ![Image text](https://github.com/yinhuajun/HTMLTestRunner2020/blob/master/20200818142002.png)
