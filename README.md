@@ -18,14 +18,13 @@ Version 0.0.1
 * 优化“展开”与“收缩”状态的变换
 * 美化汇总报告
 * 美化详细数据
-删除：
-* 删除用例集
+
 
 感谢各位开源作者的无私奉献，参考学习链接：
 HTMLTestRunner： http://tungwaiyip.info/software/HTMLTestRunner.html
 Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
 
-肯定存在bug，希望可以告诉我，之后我会再出一版修复bug，希望对大家有帮助
+肯定存在bug，可以的话请告诉我，之后有需要会再出一版修复bug，希望对大家有帮助
 
 使用方法例：
     import HTMLTestRunner2020
@@ -37,4 +36,3 @@ Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
         except Exception as e:
         MyLogs().error("执行用例失败:{0}".format(e))
 """
-
