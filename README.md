@@ -44,4 +44,4 @@ Joy_QA_Platform：https://github.com/JoyMobileDevelopmentTeam/Joy_QA_Platform
         
 """
 
-![Image text](https://github.com/yinhuajun/HTMLTestRunner2020/blob/master/20200818142322.png)
+![Image text](https://github.com/yinhuajun/HTMLTestRunner2020/blob/master/20200818142002.png)
