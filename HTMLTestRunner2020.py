@@ -1,5 +1,4 @@
 # encoding: utf-8
-# @author: 山东少年先锋队
 # @email: 1253039341@qq.com
 # @time: 2020/8/13 11:36
 # coding=utf-8
@@ -8,7 +7,6 @@ __author__ = "山东少年先锋队"
 __version__ = "0.0.1"
 
 """
-Version 0.0.1
 相比于原始HTMLTestRunner
 增加：
 * 支持中文，汉化
@@ -18,8 +16,6 @@ Version 0.0.1
 * 优化“展开”与“收缩”状态的变换
 * 美化汇总报告
 * 美化详细数据
-删除：
-* 删除用例集（因为增加了搜索）
 
 感谢各位开源作者的无私奉献，参考学习链接：
 HTMLTestRunner： http://tungwaiyip.info/software/HTMLTestRunner.html
